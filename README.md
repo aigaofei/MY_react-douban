@@ -58,8 +58,8 @@
 ###	 9、对于WeChat也要会做项目熟练其内部API及一些时间等
 ###	 10、对齐项目工程化也要了解，这样会提高收索引擎的优化（SEO）
 
-![项目展示](./src/images/案例电影.jpg)
-![项目展示](./src/images/难点1.jpg)
-![项目展示](./src/images/详情1.jpg)
+![案例电影页](./src/images/案例电影页.jpg)
+![路由逻辑难点1](./src/images/路由逻辑难点1.jpg)
+![详情页渲染](./src/images/详情页渲染.jpg)
 
 
